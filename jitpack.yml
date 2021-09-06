@@ -1,3 +1,7 @@
+before_install:
+  - git lfs pull
+
+
 install:
   - VERSION="-Dversion=5.7"
   - mvn install:install-file -Dfile=libs/commonlib.aar -DgroupId=com.zoom-community.sdk -DartifactId=commonlib $VERSION -Dpackaging=aar -DgeneratePom=true
