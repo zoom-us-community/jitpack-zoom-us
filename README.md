@@ -20,12 +20,13 @@ allprojects {
 Now you can add dependency:
 ```gradle
 dependencies {
-    implementation 'com.github.zoom-us-community:jitpack-zoom-us:5.9.1.3662'
+    implementation 'com.github.zoom-us-community:jitpack-zoom-us:5.9.1.3674'
 }
 ```
 
 Available tags:
 ```
+5.9.1.3674
 5.9.1.3662
 5.7.1.1268
 5.7.1
