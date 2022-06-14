@@ -24,17 +24,19 @@ dependencies {
 }
 ```
 
-Available tags:
-```
-5.10.3.5614
-5.9.6.4777
-5.9.1.3674
-5.9.1.3662
-5.7.1.1268
-5.7.1
-```
-
 Note: You can use commit hash instead of Tag.
+
+
+### Available Versions
+
+| Tag           | Dependencies      | Notes                                                                    | 
+| :-----------: |:------------      | :----------------------------------------------------------------------  |
+| 5.10.3.5614   | exoplayer:2.16.1  |                                                                          |
+| 5.9.6.4777    | exoplayer:2.13.3  |                                                                          |
+| 5.9.1.3674    |                   |                                                                          |
+| 5.9.1.3662    |                   | Minimum version after November 5, 2022                                                                         |
+| 5.7.1.1268    |                   |                                                                          |
+| 5.7.1         |                   |                                                                          |
 
 ### Links
 - [publishing](./docs/DEV.md)
