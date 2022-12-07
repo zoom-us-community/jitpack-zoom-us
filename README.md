@@ -1,5 +1,7 @@
 This repository provides easy access to ZoomUs android sdk.
 
+[![](https://jitpack.io/v/zoom-us-community/jitpack-zoom-us.svg)](https://jitpack.io/#zoom-us-community/jitpack-zoom-us)
+
 You can check JitPack link [jitpack-zoom-us](https://jitpack.io/#zoom-us-community/jitpack-zoom-us)
 
 Library includes sdk archives:
