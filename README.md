@@ -22,7 +22,7 @@ allprojects {
 Now you can add dependency:
 ```gradle
 dependencies {
-    implementation 'com.github.zoom-us-community:jitpack-zoom-us:5.12.8.9901'
+    implementation 'com.github.zoom-us-community:jitpack-zoom-us:5.13.1.11014'
 }
 ```
 
@@ -33,6 +33,7 @@ Note: You can use commit hash instead of Tag.
 
 | Tag           | Dependencies     | Notes                                                                    | 
 | :-----------: |:-----------------| :----------------------------------------------------------------------  |
+| 5.13.1.11014  | exoplayer:?      |                                                                          |
 | 5.12.8.9901   | exoplayer:?      |                                                                          |
 | 5.12.2.9109   | exoplayer:?      |                                                                          |
 | 5.11.0.6883   | exoplayer:2.16.1 |                                                                          |
