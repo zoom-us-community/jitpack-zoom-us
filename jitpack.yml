@@ -3,6 +3,6 @@ before_install:
 
 
 install:
-  - VERSION="-Dversion=5.13.1.11014"
+  - VERSION="-Dversion=5.13.10.12577"
   - mvn install:install-file -Dfile=libs/commonlib.aar -DgroupId=com.zoom-community.sdk -DartifactId=commonlib $VERSION -Dpackaging=aar -DgeneratePom=true
   - mvn install:install-file -Dfile=libs/mobilertc.aar -DgroupId=com.zoom-community.sdk -DartifactId=mobilertc $VERSION -Dpackaging=aar -DgeneratePom=true
