@@ -38,7 +38,7 @@ Note: You can use commit hash instead of Tag.
 | 5.15.12.10095 | exoplayer:2.17.1 |                                                                          |
 | 5.15.7.15567  | exoplayer:2.17.1 |                                                                          |
 | 5.14.11.14322 | exoplayer:2.17.1 |                                                                          |
-| 5.13.10.12577 | exoplayer:2.17.1 |                                                                          |
+| 5.13.10.12580 | exoplayer:2.17.1 | Rebuild 5.13.10.12577                                                    |
 | 5.13.1.11014  | exoplayer:?      |                                                                          |
 | 5.12.8.9901   | exoplayer:?      |                                                                          |
 | 5.12.2.9109   | exoplayer:?      |                                                                          |
