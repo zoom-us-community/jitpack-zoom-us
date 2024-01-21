@@ -33,11 +33,11 @@ Note: You can use commit hash instead of Tag.
 
 | Tag           | Dependencies     | Notes                                                                    |
 | :-----------: |:-----------------| :----------------------------------------------------------------------  |
-| 5.16.10.17707 | exoplayer:2.17.1 | Rebuild 5.16.10.17706                                                    |
-| 5.16.5.17050  | exoplayer:2.17.1 |                                                                          |
+| 5.16.10.17707 | exoplayer:2.17.1 | Rebuild 5.16.10.17706 `BROKEN`                                           |
+| 5.16.5.17050  | exoplayer:2.17.1 | `BROKEN`                                                                 |
 | 5.16.2.16555  | exoplayer:2.17.1 |                                                                          |
-| 5.15.12.10095 | exoplayer:2.17.1 |                                                                          |
-| 5.15.7.15567  | exoplayer:2.17.1 |                                                                          |
+| 5.15.12.10095 | exoplayer:2.17.1 | `BROKEN`                                                                 |
+| 5.15.7.15567  | exoplayer:2.17.1 | `BROKEN`                                                                 |
 | 5.14.11.14322 | exoplayer:2.17.1 |                                                                          |
 | 5.13.10.12580 | exoplayer:2.17.1 | Rebuild 5.13.10.12577                                                    |
 
