@@ -41,5 +41,7 @@ Note: You can use commit hash instead of Tag.
 | 5.14.11.14322 | exoplayer:2.17.1 |                                                                          |
 | 5.13.10.12580 | exoplayer:2.17.1 | Rebuild 5.13.10.12577                                                    |
 
+`BROKEN`: JitPack seem to remove files from time to time hence some versions get broken. Health of version can be verified using https://www.jitpack.io/com/github/zoom-us-community/jitpack-zoom-us/commonlib/$TAG/ and https://www.jitpack.io/com/github/zoom-us-community/jitpack-zoom-us/mobilertc/$TAG/ - it should show `.aar` file.
+
 ### Links
 - [publishing](./docs/DEV.md)
