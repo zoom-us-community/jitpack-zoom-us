@@ -3,5 +3,5 @@ before_install:
 
 
 install:
-  - VERSION="-Dversion=5.17.11.20433"
+  - VERSION="-Dversion=6.1.5.23231"
   - mvn install:install-file -Dfile=libs/mobilertc.aar -DgroupId=com.zoom-community.sdk -DartifactId=mobilertc $VERSION -Dpackaging=aar -DgeneratePom=true
