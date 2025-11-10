@@ -1,4 +1,4 @@
-## This repo has been archived because Zoom.us now puts Meeting SDK on [maven](https://mvnrepository.com/artifact/us.zoom.meetingsdk/zoomsdk).
+## ⚠️ This repo has been archived because Zoom.us now puts Meeting SDK on [maven](https://mvnrepository.com/artifact/us.zoom.meetingsdk/zoomsdk).
 
 This repository provides easy access to ZoomUs android sdk.
 
